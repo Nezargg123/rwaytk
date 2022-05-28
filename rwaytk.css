@@ -1,1 +1,7 @@
-#x
+#x{
+    background-color: darkgoldenrod;
+    border: 50px gold double;
+    height: auto;
+    width: auto;
+    background-image: url("r");
+}
