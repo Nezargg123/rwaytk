@@ -3,5 +3,9 @@
     border: 50px gold double;
     height: auto;
     width: auto;
-    background-image: url("r");
+    background-image: url("images/div x");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
 }
