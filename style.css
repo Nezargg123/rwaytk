@@ -68,6 +68,9 @@ ul li :hover a{
 label #btn, label #close{
     position: absolute;
     cursor: pointer;
+    background: #042331;
+    border-radius: 3px;
+    
 }
 
   input[type="text"]
