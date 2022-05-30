@@ -1,7 +1,7 @@
 .a{
     text-align: center;
     font-size: xx-large;
-    color: rgb(255, 238, 0);
+    color: yellow;
     background-color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 height: auto;
@@ -34,7 +34,7 @@ input{
       height: 50px;
       border: none;
       outline: none;
-      padding: o 25px;
+      padding: 0 25px;
       border-radius: 25px 0 0 25px;
   }
   input[type="submit"]
@@ -49,7 +49,9 @@ input{
       background-color: goldenrod;
   }
 h2{
+    margin: 0 0 10px;
     font-size: 24px;
+    color: #fff;
 }
 
 
