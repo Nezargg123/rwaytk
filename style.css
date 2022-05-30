@@ -27,6 +27,12 @@ input{
     transition: 2s;
 
 }
+.sidebar{
+    list-style: none;
+    text-decoration: none;
+    position: fixed;
+    right: 0;
+}
  input[type="text"]
   {
       background: #fff;
