@@ -10,6 +10,9 @@
     background-size: contain;
   
 }
+#header-1{
+    padding-bottom: 70px;
+}
 #first-p{
     color:red
 }
