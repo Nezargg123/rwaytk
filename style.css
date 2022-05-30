@@ -11,7 +11,7 @@
 }
 .y{
     text-align: center;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+    font-family: fantasy;
     font-size: xx-large;
     color:darkslategray;
 }
@@ -42,4 +42,9 @@ a{
 }
 a:hover{
     color:blueviolet ;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
