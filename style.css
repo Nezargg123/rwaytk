@@ -4,7 +4,8 @@
     color: rgb(255, 238, 0);
     background-color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+height: auto;
+width: auto;
 }
 body{
     margin: 0;
