@@ -62,6 +62,14 @@ input{
 ul li :hover a{
     padding-right: 70px;
 }
+#chk{
+    display: none;
+}
+label #btn, label #close{
+    position: absolute;
+    cursor: pointer;
+}
+
   input[type="text"]
   {
       background: #fff;
