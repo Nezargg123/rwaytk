@@ -35,7 +35,7 @@ input{
     list-style: none;
     text-decoration: none;
     position: fixed;
-    right: -250;
+    right: -250px;
     width: 250px;
     height: 100%;
     background: #042331;
