@@ -38,6 +38,7 @@ a{
     color: chartreuse;
     cursor: grab;
     text-decoration: none;
+    text-align: end;
     
 }
 a:hover{
