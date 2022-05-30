@@ -1,6 +1,6 @@
 #x{
-    height: 2000px;
-    width: 4000px;
+    height: auto;
+    width: auto;
     background-image: url(assests/gg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
