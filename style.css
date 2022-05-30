@@ -4,10 +4,14 @@
     background-image: url(assests/gg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
     padding: 0%;
     margin: 0%;
     background-size: contain;
   
+}
+#first-p{
+    color:red
 }
 .y{
     text-align: center;
