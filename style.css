@@ -34,3 +34,10 @@ ul{
     color: lime;
     bottom: 0%;
 }
+a{
+    color: chartreuse;
+    cursor: grab;
+}
+a:hover{
+    color: darkgoldenrod;
+}
