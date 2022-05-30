@@ -53,5 +53,32 @@ h2{
     font-size: 24px;
     color: whitesmoke;
 }
-
-
+#x{
+    width: 176px;
+    height: 350px;
+    background-color: black;
+    margin-right: -150px;
+    transition: 1s;
+}
+#x button{
+    padding: 12px;
+    width: 140px;
+    background-color: gray;
+    border: 1px solid black;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 0px 16px 16px 0px;
+    transition: 2s;
+}
+#x button:hover{
+    background-color: black;
+    border: 1px solid black;
+}
+#x font{
+    font-weight: bold;
+}
+#x :hover{
+    margin-right: 0;
+}
