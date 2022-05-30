@@ -75,7 +75,7 @@ label #btn, label #close{
 }
 label #btn{
     right: 40px;
-    top: 265px;
+    top: 285px;
     font-size: 25px;
     padding: 6px 12px;
 
@@ -83,7 +83,7 @@ label #btn{
 label #close{
     z-index: 1111;
     right: 195px;
-    top: 17px;
+    top: 285px;
     font-size: 30px;
     color: yellow; 
     padding: 4px 9px;
