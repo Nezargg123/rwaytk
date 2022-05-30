@@ -22,9 +22,11 @@
    padding-top: 14px;
 }
 #header-1{
-    padding-bottom: 30px;
+    padding-bottom: 15px;
     text-align: center;
     background-color: brown;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
 #first-p{
     color:red
