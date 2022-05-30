@@ -12,14 +12,16 @@
 .y{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: x-large;
     color:darkslategray;
 }
 .a{
     text-align: center;
     color: blue;
+    font-size: large;
 }
 .c{
     text-align: right;
     color: blue;
+    font-size: large;
 }
