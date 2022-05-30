@@ -1,5 +1,5 @@
 #x{
-    height: 600px; 
+    height: 1000px; 
     width: 400px;
     background-image: url(assests/gg.jpg);
     background-repeat: no-repeat;
@@ -28,6 +28,7 @@
 ul{
     font-size: large;
     color: aqua;
+  
 }
 .e{
     text-align: left;
