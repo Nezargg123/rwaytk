@@ -55,3 +55,10 @@ h2{
 .q{
     color: olive;
 }
+.k{
+    background-color: gray;
+    background-size: auto;
+}
+.z{
+    text-align: right;
+}
