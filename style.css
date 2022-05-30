@@ -32,6 +32,9 @@ input{
     text-decoration: none;
     position: fixed;
     right: 0;
+    width: 250px;
+    height: 100%;
+    background: #042331;
 }
  input[type="text"]
   {
