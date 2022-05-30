@@ -37,6 +37,7 @@ ul{
 a{
     color: chartreuse;
     cursor: grab;
+    text-decoration: none;
 }
 a:hover{
     color: darkgoldenrod;
