@@ -1,89 +1,52 @@
-*{
-    padding: 0px;
-    margin: 0px;
-}
-
-
-
-
-#x{
-    height: 500px; 
-    width: 2000px;
-    background-image: url(assests/gg.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    padding: 0%;
-    margin: 0%;
-   
-  
-}
-#h-1{
-   padding-top: 14px;
-   color: white;
-  
- 
-}
-#header-1{
-    padding-bottom: 15px;
-    text-align: center;
-    background-color: brown;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-}
-#first-p{
-    color:red
-}
-.y{
-    text-align: center;
-    font-family: monospace;
-    font-size: xx-large;
-    color:darkslategray;
-}
 .a{
     text-align: center;
-    color: blue;
-    font-size: large;
+    font-size: xx-large;
+    color: gold;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
-.c{
-    text-align: right;
-    color: blue;
-    font-size: large;
-}
-ul{
-    font-size: large;
-    color: aqua;
-  
-}
-.e{
-    text-align: left;
-    color: lime;
-}
-a{
-    color: chartreuse;
-    cursor: grab;
-    text-decoration: none;
-    text-align: end;
-    
-}
-a:hover{
-    color:blueviolet ;
-}
-h2{
-    text-align: center;
-    color: blueviolet;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: sans-serif;
+
 }
 .b{
-    color: olive;
+    position: absolute;
+    width: 500px;
+    
 }
-.q{
-    color: olive;
+input{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    transition: 2s;
+
 }
-.k{
-    background-color: gray;
-    background-size: auto;
-}
-.z{
-    text-align: left;
-}
+ input[type="text"]
+  {
+      background: #fff;
+      width: 340px;
+      height: 50px;
+      border: none;
+      outline: none;
+      padding: o 25px;
+      border-radius: 25px 0 0 25px;
+  }
+  input[type="submit"]
+  {
+      position: relative;
+      border-radius:0 25px 25px 0;
+      width: 150px;
+      height: 50px;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      background-color: goldenrod;
+  }
+
+
+
