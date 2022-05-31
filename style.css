@@ -166,7 +166,7 @@ h2{
 .w{
     height: 40px;
     width: 40px;
-    border-block: ;
+    inset-inline: 1px;
 }
 #u{
     text-align: left;
