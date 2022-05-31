@@ -60,7 +60,7 @@ input{
     background-color: black;
     line-height: 70px;
 }
-ul li :hover a{
+ul li a :hover{
     padding-right: 70px;
     color: red;
     transition: 1s;
