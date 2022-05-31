@@ -70,7 +70,7 @@ ul li :hover a{
 label #btn, label #close{
     position: absolute;
     cursor: pointer;
-    background: red;
+    background: yellow;
     border-radius: 3px;
 
 }
