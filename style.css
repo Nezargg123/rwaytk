@@ -167,3 +167,13 @@ h2{
     height: 4px;
     width: 4px;
 }
+#u{
+    text-align: left;
+    color: darkorchid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#f{
+    text-align: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
