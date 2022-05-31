@@ -63,7 +63,7 @@ input{
 }
 ul li :hover a{
     padding-right: 70px;
-    color: gray;
+    color: red;
     transition: 1s;
 }
 #chk{
@@ -129,7 +129,7 @@ label #close{
       cursor: pointer;
       background-color: goldenrod;
       padding-right: 50px;
-      margin-top: 20px;
+      margin-top: 40px;
   }
 h2{
     margin: 0 0 10px;
