@@ -61,7 +61,7 @@ input{
     line-height: 70px;
 }
 ul li a :hover{
-    padding-right: 70px;
+    padding-right: 30px;
     color: red;
     transition: 1s;
 }
