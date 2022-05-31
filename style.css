@@ -64,6 +64,7 @@ input{
 ul li :hover a{
     padding-right: 70px;
     color: gray;
+    transition: 1s;
 }
 #chk{
     display: none;
