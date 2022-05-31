@@ -63,6 +63,7 @@ input{
 }
 ul li :hover a{
     padding-right: 70px;
+    color: gray;
 }
 #chk{
     display: none;
@@ -169,18 +170,6 @@ h2{
     width: 40px;
     inset-inline: 1px;
 }
-#u{
-    text-align: left;
-    color: darkorchid;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-#f{
-    text-align: center;
-    color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.r{
-    height: auto;
-    width: auto;
-    
+search{
+    font-size: large;
 }
