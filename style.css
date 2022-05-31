@@ -163,3 +163,7 @@ h2{
 #x :hover{
     margin-right: 0;
 }
+img{
+    height: 12px;
+    width: 12px;
+}
