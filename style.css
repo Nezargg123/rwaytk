@@ -183,4 +183,6 @@ h2{
 }
 img{
     display: inline;
+    height: 20px;
+    width: 20px;
 }
