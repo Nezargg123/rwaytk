@@ -139,7 +139,7 @@ label #close{
     font-size: large;
     color: black;
     text-shadow: #042331;
-    border-top: -10px ;
+    text-align: end;
     
 }
 img{
