@@ -163,10 +163,15 @@ img{
 }
 #g{
     color: aqua;
-   
     background-image: url(assests/jj.jpg);
     width: auto;
     height: auto;
 
 }
-
+.lol{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: limegreen;
+    text-align: center;
+    
+}
