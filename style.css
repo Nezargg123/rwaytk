@@ -162,10 +162,10 @@ img{
     
 }
 #g{
-    color: aqua;
+    color: black;
     background-image: url(assests/jj.jpg);
     width: auto;
-    height: auto;
+    height: 300px;
 
 }
 .lol{
