@@ -160,12 +160,10 @@ img{
     text-align: center;
     font-size: x-large;
     
-
 }
 #g{
     color: aqua;
-    padding: 0%;
-    margin:0%;
+   
     background-image: url(assests/jj.jpg);
     width: auto;
     height: auto;
