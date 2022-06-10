@@ -224,10 +224,10 @@ img{
     font-size: 20px;
 }
 .l1{
-    color: darkolivegreen;
+   background-color: black;
 }
 .l2{
-    color: darkolivegreen;
+    background-color: black;
 }
 .l1 :hover{
     color: yellow;
