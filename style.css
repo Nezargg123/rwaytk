@@ -197,14 +197,14 @@ img{
 
 }
 .www{
-    text-align: right;
+    text-align: end;
     
     width: 90px;
     height: 80px;
 
 }
 .f{
-    text-align: left;
+    text-align: end;
     color: darkturquoise;
     text-decoration: none;
     cursor: copy;
@@ -214,7 +214,7 @@ img{
     font-size: 20px;
 }
 .c{
-    text-align: left;
+    text-align: end;
     color: darkturquoise;
     cursor: copy;
     text-align: none;
@@ -225,9 +225,11 @@ img{
 }
 .l1{
    background-color: black;
+   text-align: end;
 }
 .l2{
     background-color: black;
+    text-align: end;
 }
 .l1 :hover{
     color: yellow;
