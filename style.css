@@ -201,3 +201,23 @@ img{
     height: 40px;
 
 }
+.f{
+    text-align: left;
+    color: darkturquoise;
+    text-decoration: none;
+    cursor: copy;
+}
+.f :hover{
+    color: yellow;
+    font-size: 20px;
+}
+.c{
+    text-align: left;
+    color: darkturquoise;
+    cursor: copy;
+    text-align: none;
+}
+.c :hover{
+    color: yellow;
+    font-size: 20px;
+}
