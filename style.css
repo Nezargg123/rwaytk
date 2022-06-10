@@ -163,6 +163,7 @@ img{
 }
 #g{
     color: black;
+    border: none;
     
     background-size: cover;
     width: auto;
