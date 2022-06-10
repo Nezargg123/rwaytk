@@ -177,8 +177,8 @@ img{
     
 }
 .o{
-    width: 300;
-    height: auto;
+    width: auto;
+    height: 40px;
     text-align: center;
     padding-top: 24px;
 }
