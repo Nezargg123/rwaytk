@@ -209,28 +209,34 @@ img{
     color: darkturquoise;
     text-decoration: none;
     cursor: copy;
+    font-size: 45px;
 }
 .f :hover{
     color: yellow;
-    font-size: 20px;
+    font-size: 50px;
 }
 .c{
     text-align: end;
     color: darkturquoise;
     cursor: copy;
     text-align: none;
+    font-size: 45px;
 }
 .c :hover{
     color: yellow;
-    font-size: 20px;
+    font-size: 50px;
 }
 .l1{
    background-color: black;
    text-align: end;
+   height: 60px;
+   width: 70px;
 }
 .l2{
     background-color: black;
     text-align: end;
+    height: 60px;
+    width: 70px;
 }
 .l1 :hover{
     color: yellow;
