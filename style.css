@@ -221,3 +221,15 @@ img{
     color: yellow;
     font-size: 20px;
 }
+.l1{
+    color: darkolivegreen;
+}
+.l2{
+    color: darkolivegreen;
+}
+.l1 :hover{
+    color: yellow;
+}
+.l2 :hover{
+    color: yellow;
+}
