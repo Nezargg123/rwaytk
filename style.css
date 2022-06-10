@@ -209,7 +209,7 @@ img{
     color: darkturquoise;
     text-decoration: none;
     cursor: copy;
-    font-size: 45px;
+    font-size: 25px;
 }
 .f :hover{
     color: yellow;
@@ -220,7 +220,7 @@ img{
     color: darkturquoise;
     cursor: copy;
     text-align: none;
-    font-size: 45px;
+    font-size: 25px;
 }
 .c :hover{
     color: yellow;
@@ -229,14 +229,14 @@ img{
 .l1{
    background-color: black;
    text-align: end;
-   height: 60px;
-   width: 70px;
+   height: 30px;
+   width: 60px;
 }
 .l2{
     background-color: black;
     text-align: end;
-    height: 60px;
-    width: 70px;
+    height: 30px;
+    width: 60px;
 }
 .l1 :hover{
     color: yellow;
