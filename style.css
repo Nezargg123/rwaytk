@@ -171,7 +171,7 @@ img{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: limegreen;
     text-align: center;
-    text-decoration: underline;
+    text-decoration:solid;
 }
 .o{
     width: auto;
