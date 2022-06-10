@@ -197,4 +197,7 @@ img{
 .www{
     text-align: left;
     position: fixed;
+    width: 30px;
+    height: 40px;
+
 }
