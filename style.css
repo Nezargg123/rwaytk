@@ -240,7 +240,7 @@ img{
 }
 .eee{
     text-align: center;
-    display: block;
+    display:inline;
     width: 140px;
     height: 200px;
 }
@@ -294,7 +294,7 @@ color: yellow;
     text-align: right;
     float: right;
     width: 140px;
-    display: block;
+    display: inline;
     height: 200px;
 }
 .l5{
