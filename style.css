@@ -259,6 +259,7 @@ img{
 #jj{
     color: blue;
     font-size: x-large;
+    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
     .l3 :hover{
@@ -337,6 +338,7 @@ color: yellow;
 }
 #rr{
     color: blue;
+    text-align: right;
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
