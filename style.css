@@ -157,7 +157,7 @@ img{
 #g{
     width: auto;
     height: 500px;
-   display: inline-block;
+   display: inline;
     background-color: brown;
 
 }
