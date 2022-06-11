@@ -238,3 +238,54 @@ img{
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.eee{
+    text-align: center;
+    
+    width: 140px;
+    height: 200px;
+}
+.l3{
+    background-color: black;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+}
+.l4{
+    background-color: black;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+}
+#jj{
+    color: blue;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    .l3 :hover{
+        color: yellow;
+    }
+    .l4 :hover{
+color: yellow;
+    }
+   .n{
+    text-align: center;
+    color: darkturquoise;
+    text-decoration: none;
+    cursor: copy;
+    font-size: 25px;
+   }     
+    .m{
+        text-align: center;
+        color: darkturquoise;
+        text-decoration: none;
+        cursor: copy;
+        font-size: 25px;
+    }
+    .m :hover{
+        color: yellow;
+    font-size: 50px;
+    }
+    .n :hover[
+        color: yellow;
+    font-size: 50px;
+    ]
