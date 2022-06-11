@@ -235,6 +235,8 @@ display: inline;
 }
 #gg{
     color: blue;
+    width: 140px;
+    height: 30px;
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -262,6 +264,8 @@ display: inline;
 #jj{
     color: blue;
     font-size: x-large;
+    width: 140px;
+    height: 30px;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -346,6 +350,8 @@ color: yellow;
 #rr{
     color: blue;
     text-align: right;
+    width: 140px;
+    height: 30px;
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
