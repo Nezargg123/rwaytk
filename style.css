@@ -285,7 +285,58 @@ color: yellow;
         color: yellow;
     font-size: 50px;
     }
-    .n :hover[
+    .n :hover{
         color: yellow;
     font-size: 50px;
-    ]
+}
+.uuu{
+    text-align: right;
+    
+    width: 140px;
+    height: 200px;
+}
+.l5{
+    background-color: black;
+    text-align: right;
+    height: 30px;
+    width: 70px;
+}
+.l6{
+    background-color: black;
+    text-align: right;
+    height: 30px;
+    width: 70px;
+}
+.l5 :hover{
+color: yellow;
+}
+.l6 :hover{
+color: yellow;
+}
+.h{
+    text-align: right;
+    color: darkturquoise;
+    text-decoration: none;
+    cursor: copy;
+    font-size: 25px;
+}
+.y{
+    text-align: right;
+    color: darkturquoise;
+    text-decoration: none;
+    cursor: copy;
+    font-size: 25px;
+}
+.h :hover{
+    color: yellow;
+    font-size: 50px;
+}
+.y :hover{
+    color: yellow;
+    font-size: 50px;
+}
+#rr{
+    color: blue;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
