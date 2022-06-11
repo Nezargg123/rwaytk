@@ -188,7 +188,7 @@ img{
 }
 .www{
     text-align: end;
-    
+    display: block;
     width: 140px;
     height: 200px;
 
@@ -240,7 +240,7 @@ img{
 }
 .eee{
     text-align: center;
-    
+    display: block;
     width: 140px;
     height: 200px;
 }
@@ -294,6 +294,7 @@ color: yellow;
     text-align: right;
     float: right;
     width: 140px;
+    display: block;
     height: 200px;
 }
 .l5{
