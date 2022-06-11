@@ -292,7 +292,7 @@ color: yellow;
 }
 .uuu{
     text-align: right;
-    
+    float: left;
     width: 140px;
     height: 200px;
 }
