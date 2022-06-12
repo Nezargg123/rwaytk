@@ -370,3 +370,8 @@ color: yellow;
     height: 200px;
     width: 140px;
 }
+#pop{
+display: inline-block;
+margin: 0%;
+padding: 0%;
+}
