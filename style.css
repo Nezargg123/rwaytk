@@ -237,6 +237,7 @@ display: inline;
     color: blue;
     width: 140px;
     height: 30px;
+    margin: 0%;
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -266,6 +267,7 @@ display: inline;
     font-size: x-large;
     width: 140px;
     height: 30px;
+    margin: 0%;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -352,6 +354,7 @@ color: yellow;
     text-align: right;
     width: 140px;
     height: 30px;
+    margin: 0%;
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
