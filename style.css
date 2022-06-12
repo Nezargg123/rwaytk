@@ -8,8 +8,8 @@ height: auto;
 width: auto;
 }
 body{
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     background-color: slateblue;
     font-family: sans-serif;
 
@@ -157,7 +157,7 @@ img{
 #g{
     width: auto;
     height: 500px;
-   
+   margin: 0%;
     background-color: brown;
 
 }
