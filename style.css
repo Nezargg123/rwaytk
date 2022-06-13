@@ -186,202 +186,45 @@ img{
     width: 35px;
 
 }
-.www{
-    text-align: end;
-    margin:0%;
-    width: 140px;
-    float: left;
-    height: 200px;
-display: inline;
-}
-.f{
-    text-align: end;
-    color: darkturquoise;
+.a1{
     text-decoration: none;
-    cursor: copy;
+    color: aqua;
     font-size: 25px;
+
 }
-.f :hover{
+.a1 :hover{
     color: yellow;
-    font-size: 50px;
+    font-size: 30px;
 }
-.c{
-    text-align: end;
-    color: darkturquoise;
-    cursor: copy;
-    text-align: none;
+.a2{
+    text-decoration: none;
+    color: aqua;
     font-size: 25px;
+
 }
-.c :hover{
+.a2 :hover{
     color: yellow;
-    font-size: 50px;
+    font-size: 30px;
 }
 .l1{
-   background-color: black;
-   text-align: end;
-   height: 30px;
-   width: 70px;
+    background-color: black;
+    width: 70px;
+    height: 30px;
+    float: left;
 }
 .l2{
     background-color: black;
-    text-align: end;
-    height: 30px;
     width: 70px;
+    height: 30px;
+    float: left;
 }
-.l1 :hover{
-    color: yellow;
-    text-align: left;
-    display: block;
+.llk{
+    width: 140px;
+    height:200px ;
 }
-.l2 :hover{
-    color: yellow;
-    text-align: left;
-    display: block;
-}
-#gg{
+.em{
     color: blue;
     width: 140px;
     height: 30px;
     text-align: left;
-    margin: 0%;
-    font-size: x-large;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-.eee{
-    text-align: center;
-    
-    display: inline;
-    margin: 0 auto;
-
-    width: 140px;
-    height: 200px;
-}
-.l3{
-    background-color: black;
-    text-align: center;
-    display: block;
-    height: 30px;
-    width: 70px;
-}
-.l4{
-    background-color: black;
-    text-align: center;
-    height: 30px;
-    display: block;
-    width: 70px;
-}
-#jj{
-    color: blue;
-    font-size: x-large;
-    width: 140px;
-    height: 30px;
-    margin: 0%;
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-    .l3 :hover{
-        color: yellow;
-    }
-    .l4 :hover{
-color: yellow;
-    }
-   .n{
-    text-align: center;
-    color: darkturquoise;
-    text-decoration: none;
-    cursor: copy;
-    font-size: 25px;
-   }     
-    .m{
-        text-align: center;
-        color: darkturquoise;
-        text-decoration: none;
-        cursor: copy;
-        font-size: 25px;
-    }
-    .m :hover{
-        color: yellow;
-    font-size: 50px;
-    }
-    .n :hover{
-        color: yellow;
-    font-size: 50px;
-}
-.uuu{
-    text-align: right;
-    float: right;
-    width: 140px;
-    margin:0%;
-display: inline;
-    height: 200px;
-}
-.l5{
-    background-color: black;
-    text-align: right;
-    float: right;
-    display: block;
-    height: 30px;
-    width: 70px;
-}
-.l6{
-    background-color: black;
-    text-align: right;
-    float: right;
-    display: block;
-    height: 30px;
-    width: 70px;
-}
-.l5 :hover{
-color: yellow;
-}
-.l6 :hover{
-color: yellow;
-}
-.h{
-    text-align: right;
-    color: darkturquoise;
-    text-decoration: none;
-    cursor: copy;
-    font-size: 25px;
-}
-.y{
-    text-align: right;
-    color: darkturquoise;
-    text-decoration: none;
-    cursor: copy;
-    font-size: 25px;
-}
-.h :hover{
-    color: yellow;
-    font-size: 50px;
-}
-.y :hover{
-    color: yellow;
-    font-size: 50px;
-}
-#rr{
-    color: blue;
-    text-align: right;
-    width: 140px;
-    height: 30px;
-    margin: 0%;
-    font-size: x-large;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-.aaa{
-    height: 200px;
-    width: 140px;
-}
-.bbb{
-    height: 200px;
-    width: 140px;
-}
-.ddd{
-    height: 200px;
-    width: 140px;
-}
-#pop{
-display: inline-block;
-margin: 0%;
-padding: 0%;
 }
