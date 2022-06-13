@@ -190,6 +190,7 @@ img{
     text-align: end;
     margin:0%;
     width: 140px;
+    float: left;
     height: 200px;
 display: inline;
 }
