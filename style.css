@@ -244,8 +244,8 @@ display: inline;
 }
 .eee{
     text-align: center;
-    
-    display: block;
+
+    display: inline;
     margin: 0 auto;
 
     width: 140px;
