@@ -245,7 +245,7 @@ display: inline;
 .eee{
     text-align: center;
     
-    display: inline;
+    display: block;
     margin: 0 auto;
 
     width: 140px;
