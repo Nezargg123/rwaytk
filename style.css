@@ -231,12 +231,12 @@ display: inline;
 .l1 :hover{
     color: yellow;
     text-align: left;
-    display: inline;
+    display: block;
 }
 .l2 :hover{
     color: yellow;
     text-align: left;
-    display: inline;
+    display: block;
 }
 #gg{
     color: blue;
@@ -259,7 +259,7 @@ display: inline;
 .l3{
     background-color: black;
     text-align: center;
-    display: inline;
+    display: block;
     height: 30px;
     width: 70px;
 }
@@ -267,7 +267,7 @@ display: inline;
     background-color: black;
     text-align: center;
     height: 30px;
-    display: inline;
+    display: block;
     width: 70px;
 }
 #jj{
@@ -319,7 +319,7 @@ display: inline;
     background-color: black;
     text-align: right;
     float: right;
-    display: inline;
+    display: block;
     height: 30px;
     width: 70px;
 }
@@ -327,7 +327,7 @@ display: inline;
     background-color: black;
     text-align: right;
     float: right;
-    display: inline;
+    display: block;
     height: 30px;
     width: 70px;
 }
