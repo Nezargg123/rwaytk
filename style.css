@@ -230,14 +230,19 @@ display: inline;
 }
 .l1 :hover{
     color: yellow;
+    text-align: left;
+    display: inline;
 }
 .l2 :hover{
     color: yellow;
+    text-align: left;
+    display: inline;
 }
 #gg{
     color: blue;
     width: 140px;
     height: 30px;
+    text-align: left;
     margin: 0%;
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -254,6 +259,7 @@ display: inline;
 .l3{
     background-color: black;
     text-align: center;
+    display: inline;
     height: 30px;
     width: 70px;
 }
@@ -261,6 +267,7 @@ display: inline;
     background-color: black;
     text-align: center;
     height: 30px;
+    display: inline;
     width: 70px;
 }
 #jj{
@@ -312,6 +319,7 @@ display: inline;
     background-color: black;
     text-align: right;
     float: right;
+    display: inline;
     height: 30px;
     width: 70px;
 }
@@ -319,6 +327,7 @@ display: inline;
     background-color: black;
     text-align: right;
     float: right;
+    display: inline;
     height: 30px;
     width: 70px;
 }
