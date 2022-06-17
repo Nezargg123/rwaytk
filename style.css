@@ -229,3 +229,50 @@ img{
     text-align: left;
     font-size: x-large;
 }
+.llv{
+    width: 140px;
+    height:200px ;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+.a3{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+
+}
+.l3 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.a4{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+
+}
+.l4 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l3{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.l4{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    
+}
+.em2{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
