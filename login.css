@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#first-h{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-size: 60px;
+    padding-bottom: 4px;
+}
+#login{
+    padding-top: 20px;
+    background-color: blanchedalmond;
+    
+}
+form{
+    border: 3px solid ;
+    width: 400px;
+    height: 300px;
+    margin-left: 430px;
+    background-color: blanchedalmond;
+    padding-top: 70px;
+    margin-bottom: 100px;
+}
+#f-d{
+    
+    padding-top: 140px;
+}
+input[type=text],input[type=password]{
+    width: 94%;
+    margin: 4px;
+    text-align: center;
+    padding-top: 5px;
+}
+#pswd{
+    padding-top: 40px;
+}
+footer{
+    font-size: 40px;
+    background-color: black;
+    
+}
+#btt{
+   margin-left: 20px;
+   margin-top: 20px;
+}
