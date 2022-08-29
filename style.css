@@ -229,3 +229,42 @@ img{
     text-align: left;
     font-size: x-large;
 }
+.lls{
+    width: 140px;
+    height:200px ;
+}
+.a3{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a4{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.l3{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l4{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l3 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l4 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.em2{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
