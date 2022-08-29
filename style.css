@@ -268,8 +268,10 @@ img{
     text-align: center;
     font-size: x-large;
 }
-.section1{
+.sec1{
     display:block
     Width: 236px;
     height: 166px;
+    
+    background-color: aqua;
 }
