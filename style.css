@@ -268,3 +268,8 @@ img{
     text-align: center;
     font-size: x-large;
 }
+.sec1{
+    width: 236px;
+    height: 200px;
+    background-color: aqua;
+}
