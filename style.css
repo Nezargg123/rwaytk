@@ -270,6 +270,12 @@ img{
 }
 .sec1{
     width: 236px;
-    height: 200px;
+   margin: 0%;
     background-color: aqua;
+}
+.em1 :hover{
+    color: black;
+}
+.em2 :hover{
+    color: black;
 }
