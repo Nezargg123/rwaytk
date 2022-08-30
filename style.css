@@ -270,7 +270,7 @@ img{
 }
 .sec1{
     width: 236px;
-   margin: 0%;
+   margin: 0px;
     background-color: aqua;
 }
 .em1 :hover{
@@ -278,4 +278,90 @@ img{
 }
 .em2 :hover{
     color: black;
+}
+.llv{
+    width: 140px;
+    height:200px ;
+}
+.lld{
+    width: 140px;
+    height:200px ;
+}
+.em3{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
+.em4{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
+.l5{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l6{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l7{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l8{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l5 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l6 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l7 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l8 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.a5{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a6{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a7{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a8{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.sec2{
+    width: 236px;
+    margin: 0px;
+     background-color: red;
+}
+.all{
+    display: flex;
 }
