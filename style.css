@@ -365,3 +365,6 @@ img{
 .all{
     display: flex;
 }
+.textsec{
+background-image: url(assests/mnm.jpg);
+}
