@@ -152,7 +152,7 @@ img{
 #z{
     text-align: center;
     font-size: 45px;
-    color: blueviolet;
+    color: purple;
    
 }
 #g{
@@ -369,4 +369,5 @@ img{
 .textsec{
 background-image: url(assests/mnm.jpg);
 height: 20px;
+
 }
