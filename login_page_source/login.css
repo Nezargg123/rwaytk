@@ -29,10 +29,11 @@ form{
     padding-top: 140px;
 }
 input[type=text],input[type=password]{
-    width: 94%;
-    margin: 4px;
+    width: 310px;
+    margin-left: 43px;
     text-align: center;
     padding-top: 5px;
+    display: block;
 }
 #pswd{
     padding-top: 40px;
@@ -48,4 +49,11 @@ footer{
 }
 #user{
     display: inline-block;
+    margin-left: 40px;
+    padding-bottom: 14px;
+}
+#password{
+    display: inline-block;
+    margin-left: 40px;
+    padding-bottom: 14px;
 }
