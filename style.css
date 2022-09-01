@@ -368,6 +368,86 @@ img{
 }
 .textsec{
 background-image: url(assests/mnm.jpg);
-height: 20px;
+height: 60px;
+
+}
+.lg{
+    width: 140px;
+    height:200px ;
+}
+.sec3{
+    width: 236px;
+    margin: 0px;
+     background-color: red;
+}
+.l9{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l10{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l11{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l12{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l9 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l10 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l11 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l12 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.a9{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a10{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a11{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a12{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.em5{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
+.em6{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
 
 }
