@@ -53,10 +53,11 @@ footer{
     display: inline-block;
     margin-left: 40px;
     padding-bottom: 14px;
-    font: inherit;
+    font-family: 'Courier New', Courier, monospace;
 }
 #password{
     display: inline-block;
     margin-left: 40px;
     padding-bottom: 14px;
+    font-weight: 100px;
 }
