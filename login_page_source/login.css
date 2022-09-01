@@ -62,7 +62,12 @@ footer{
    background: var(--button-color,#e10e71);
    border: 1px solid var(--button-color,#e10e71);
    color: var(--button-text-color,#fff);
+   width: 330px;
+   margin-left: 40px;
+   margin-top: 40px;
+   height: 30px;
 }
+
 
 
 #user{
