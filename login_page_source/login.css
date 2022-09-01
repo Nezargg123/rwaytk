@@ -18,10 +18,11 @@ form{
     border: 3px solid ;
     width: 400px;
     height: 300px;
-    margin-left: 430px;
+    margin-left: 367px;
     background-color: blanchedalmond;
     padding-top: 70px;
     margin-bottom: 100px;
+    border-radius: 5px;
 }
 #f-d{
     
@@ -44,4 +45,7 @@ footer{
 #btt{
    margin-left: 20px;
    margin-top: 20px;
+}
+#user{
+    display: inline-block;
 }
