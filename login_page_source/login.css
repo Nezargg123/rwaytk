@@ -59,8 +59,12 @@ footer{
    text-align: center;
    text-decoration: none;
    transition: all .3s ease-in-out;
-
+   background: var(--button-color,#e10e71);
+   border: 1px solid var(--button-color,#e10e71);
+   color: var(--button-text-color,#fff);
 }
+
+
 #user{
     display: inline-block;
     margin-left: 40px;
