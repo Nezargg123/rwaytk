@@ -1,0 +1,1 @@
+function close() {document.getElementById('close').onclick.style.display = none;}
