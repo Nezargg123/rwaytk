@@ -451,3 +451,87 @@ height: 100px;
     font-size: x-large;
 
 }
+.missed a {
+    width: 140px;
+    height:200px ;
+}
+.asd{
+    width: 140px;
+    height:200px ;
+}
+.em7{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
+.em8{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
+.l13{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l14{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l15{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l16{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l13 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l14 :hover{
+    color: yellow;
+    font-size: 30px;
+
+}
+.l15 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l16 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.a13{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a14{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a15[
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+]
+.a16{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.sec4{
+    width: 236px;
+    margin: 0px;
+     background-color: red;
+}
