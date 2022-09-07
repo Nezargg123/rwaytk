@@ -535,3 +535,88 @@ height: 100px;
     margin: 0px;
      background-color: red;
 }
+
+.lla{
+    width: 140px;
+    height:200px ;
+}
+.llb{
+    width: 140px;
+    height:200px ;
+}
+.em9{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
+.em10{
+    color: blue;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+}
+.l17{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l18{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l19{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l20{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l17 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l18 :hover{
+    color: yellow;
+    font-size: 30px;
+
+}
+.l19 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l20 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.a17{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a18{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a19[
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+]
+.a20{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.sec5{
+    width: 236px;
+    margin: 0px;
+     background-color: red;
+}
