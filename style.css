@@ -640,32 +640,42 @@ height: 100px;
 .trend3{
     display: block;
     background-color: yellow;
+    width: 50px;
 
 }
 .kids3{
     display: block;
     background-color: yellow;
+    width: 30px;
+
 }
 .manga3{
     display: block;
     background-color: yellow;
+    width: 25px;
 }
 .act3{
     display: block;
     background-color: yellow;
+    width: 40px;
 }
 .act2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+    height: 80px;
+    width: 80px;
 }
 .manga2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 80px;
+    width: 80px;
 }
 .trend2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 80px;
+    width: 80px;
 }
 .trend2 ::first-letter{
     color: red;
@@ -674,6 +684,8 @@ height: 100px;
 .kids2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 80px;
+    width: 80px;
 }
 .kid1{
 border-color: black;
