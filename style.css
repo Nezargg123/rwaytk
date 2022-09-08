@@ -166,7 +166,7 @@ img{
     font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: limegreen;
-    text-align: center;
+    text-align: right;
     text-decoration:wavy;
 }
 .o{
@@ -379,6 +379,7 @@ height: 100px;
 .lg{
     width: 140px;
     height:200px ;
+    box-shadow: gold;
 }
 .sec3{
     width: 245px;
@@ -465,7 +466,7 @@ height: 100px;
 .asd{
     width: 140px;
     height:200px ;
-    box-shadow: gold;
+  
 }
 .em7{
     color: black;
