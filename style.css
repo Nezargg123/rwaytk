@@ -676,14 +676,16 @@ height: 100px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .kid1{
-
+border-color: black;
 }
 .act1{
-
+    border-color: black;
 }
 .manga1{
-
+    border-color: black;
 }
 .trend1{
-
+    border-color: black;
+    border-width: ;
 }
+
