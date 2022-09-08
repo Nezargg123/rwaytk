@@ -662,20 +662,17 @@ height: 100px;
 .act2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    height: 80px;
-    width: 80px;
+   
 }
 .manga2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    height: 80px;
-    width: 80px;
+    
 }
 .trend2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    height: 80px;
-    width: 80px;
+   color: red;
 }
 .trend2 ::first-letter{
     color: red;
@@ -684,20 +681,26 @@ height: 100px;
 .kids2{
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    height: 80px;
-    width: 80px;
+    
 }
 .kid1{
 border-color: black;
+height: 80px;
+    width: 80px;
 }
 .act1{
     border-color: black;
+    height: 80px;
+    width: 80px;
 }
 .manga1{
     border-color: black;
+    height: 80px;
+    width: 80px;
 }
 .trend1{
     border-color: black;
-    border-width: ;
+    height: 80px;
+    width: 80px;
 }
 
