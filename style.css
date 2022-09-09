@@ -646,18 +646,18 @@ height: 100px;
 .kids3{
     display: block;
     background-color: yellow;
-    width: 170px;
+    width: 200px;
 
 }
 .manga3{
     display: block;
     background-color: yellow;
-    width: 160px;
+    width: 200px;
 }
 .act3{
     display: block;
     background-color: yellow;
-    width: 180px;
+    width: 200px;
 }
 .act2{
     font-size: large;
@@ -685,22 +685,22 @@ height: 100px;
 }
 .kids1{
 border-color: black;
-height: 80px;
+height: 60px;
   width: 80px;
 }
 .act1{
     border-color: black;
-    height: 80px;
+    height: 60px;
     width: 80px;
 }
 .manga1{
     border-color: black;
-    height: 80px;
+    height: 60px;
     width: 80px;
 }
 .trend1{
     border-color: black;
-    height: 80px;
+    height: 60px;
     width: 80px;
 }
 .trendlist{
@@ -720,4 +720,23 @@ height: 80px;
     color: cadetblue;
 }.act3 :hover{
     color: cadetblue;
+}
+.horror1{
+    border-color: black;
+    height: 60px;
+    width: 80px;
+}
+.horror2{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.horror3{
+    display: block;
+    background-color: yellow;
+    width: 200px;
+}
+.horror3 :hover{
+    color: cadetblue;
+   
 }
