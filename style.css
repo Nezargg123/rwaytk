@@ -174,7 +174,7 @@ img{
     width: auto;
     height: 80px;
     text-align: center;
-    padding-top: 24px;
+   margin-top: 0px;
 }
 .b{
     width: 45%;
@@ -742,13 +742,10 @@ height: 60px;
     color: cadetblue;
    
 }
-.bgi{
-    background-image: url(assests/jj.jpg);
-    background-size: cover;
-}
-.kh{
-    display: flex;
-}
+
 .neong{
-    text-align: center;
+    text-align: right;
+    width: 300px;
+height: 100px;
+padding-top: 50px;
 }
