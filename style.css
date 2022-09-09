@@ -706,6 +706,9 @@ height: 80px;
 .trendlist{
     width: 220px;
     border-color: gray ;
+    background-color: gray;
+    margin-right: 20px;
+
 
 }
 .trend3 :hover{
