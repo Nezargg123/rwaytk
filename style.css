@@ -703,4 +703,18 @@ height: 80px;
     height: 80px;
     width: 80px;
 }
+.trendlist{
+    width: 220px;
+    border-color: gray ;
 
+}
+.trend3 :hover{
+    color: cadetblue;
+}
+.kids3 :hover{
+    color: cadetblue;
+}.manga3 :hover{
+    color: cadetblue;
+}.act3 :hover{
+    color: cadetblue;
+}
