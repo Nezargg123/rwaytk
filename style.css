@@ -711,6 +711,7 @@ height: 60px;
     margin-right: 20px;
 
 
+
 }
 .trend3 :hover{
     color: cadetblue;
@@ -740,4 +741,11 @@ height: 60px;
 .horror3 :hover{
     color: cadetblue;
    
+}
+.bgi{
+    background-image: url(assests/jj.jpg);
+    background-size: cover;
+}
+.kh{
+    display: flex;
 }
