@@ -639,24 +639,24 @@ height: 100px;
      background-color: purple;
 }
 .trend3{
-    display: block;
+    
     background-color: yellow;
     width: 200px;
 
 }
 .kids3{
-    display: block;
+   
     background-color: yellow;
     width: 200px;
 
 }
 .manga3{
-    display: block;
+    
     background-color: yellow;
     width: 200px;
 }
 .act3{
-    display: block;
+    
     background-color: yellow;
     width: 200px;
 }
@@ -734,7 +734,7 @@ height: 60px;
     
 }
 .horror3{
-    display: block;
+   
     background-color: yellow;
     width: 200px;
 }
@@ -750,5 +750,5 @@ height: 200px;
 }
 .titler{
     width: 1000px;
-    height: 300px;
+    height: 250px;
 }
