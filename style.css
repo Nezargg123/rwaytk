@@ -705,10 +705,10 @@ height: 60px;
     width: 80px;
 }
 .trendlist{
-    width: 220px;
+    
     border-color: gray ;
     background-color: gray;
-    margin-right: 20px;
+    
 
 
 
@@ -745,7 +745,7 @@ height: 60px;
 
 .neong{
     text-align: center;
-    width: 400px;
+    width: auto;
 height: 200px;
 }
 .titler{
