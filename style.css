@@ -701,8 +701,8 @@ height: 60px;
 }
 .trend1{
     border-color: black;
-    height: 60px;
-    width: 80px;
+    height: 40px;
+    width: 60px;
 }
 .trendlist{
     
@@ -749,6 +749,6 @@ height: 60px;
 height: 200px;
 }
 .titler{
-    width: 1500px;
-    height: 400px;
+    width: auto;
+    height: 300px;
 }
