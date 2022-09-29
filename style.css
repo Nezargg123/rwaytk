@@ -752,3 +752,7 @@ height: 200px;
     width: auto;
     height: 300px;
 }
+.not{
+    text-align: center;
+    color: darkgoldenrod;
+}
