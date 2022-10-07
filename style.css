@@ -14,6 +14,8 @@ body{
     background-color: ;
     font-family: sans-serif;
     background-image: url(assests/webback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 .b{
