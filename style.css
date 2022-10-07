@@ -374,7 +374,7 @@ img{
 }
 .textsec{
 background-color: black;
-height: 100px;
+height: 200px;
 
 }
 .lg{
@@ -686,29 +686,27 @@ height: 100px;
 }
 .kids1{
 border-color: black;
-height: 60px;
+height: 70px;
   width: 80px;
 }
 .act1{
     border-color: black;
-    height: 60px;
+    height: 70px;
     width: 80px;
 }
 .manga1{
     border-color: black;
-    height: 60px;
+    height: 70px;
     width: 80px;
 }
 .trend1{
     border-color: black;
-    height: 40px;
-    width: 60px;
+    height: 60px;
+    width: 80px;
 }
 .trendlist{
     
-    border-color: gray ;
-    background-color: gray;
-    
+   
 
 
 
@@ -725,7 +723,7 @@ height: 60px;
 }
 .horror1{
     border-color: black;
-    height: 60px;
+    height: 70px;
     width: 80px;
 }
 .horror2{
@@ -752,7 +750,4 @@ height: 200px;
     width: auto;
     height: 300px;
 }
-.not{
-    text-align: center;
-    color: darkgoldenrod;
-}
+
