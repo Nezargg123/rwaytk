@@ -13,7 +13,7 @@ body{
     padding: 0%;
     background-color: ;
     font-family: sans-serif;
-    background-image: url(assests/web\ back.jpg);
+    background-image: url(assests/webback.jpg);
 
 }
 .b{
@@ -677,7 +677,7 @@ height: 200px;
    color: red;
 }
 .trend2 ::first-letter{
-    color: yellow;
+    color: black;
     font-size: x-large;
 }
 .kids2{
