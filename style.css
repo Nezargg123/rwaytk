@@ -2,7 +2,7 @@
     text-align: center;
     font-size: xx-large;
     color: yellow;
-    background-color: black;
+    background-color: ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 height: auto;
 width: auto;
@@ -676,7 +676,7 @@ height: 200px;
    color: red;
 }
 .trend2 ::first-letter{
-    color: red;
+    color: yellow;
     font-size: x-large;
 }
 .kids2{
@@ -686,18 +686,18 @@ height: 200px;
 }
 .kids1{
 border-color: black;
-height: 70px;
-  width: 80px;
+height: 40px;
+  width: 50px;
 }
 .act1{
     border-color: black;
-    height: 70px;
-    width: 80px;
+    height: 40px;
+    width: 50px;
 }
 .manga1{
     border-color: black;
-    height: 70px;
-    width: 80px;
+    height: 40px;
+    width: 50px;
 }
 .trend1{
     border-color: black;
@@ -723,8 +723,8 @@ height: 70px;
 }
 .horror1{
     border-color: black;
-    height: 60px;
-    width: 80px;
+    height: 40px;
+    width: 50px;
 }
 .horror2{
     font-size: large;
