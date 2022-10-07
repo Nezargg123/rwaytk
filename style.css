@@ -753,4 +753,17 @@ height: 200px;
     width: auto;
     height: 300px;
 }
-
+.more1{
+    width: 300px;
+    background-color: black;
+    text-align: center;
+}
+.more2{
+    text-decoration: none;
+    text-align: center;
+    color: yellow;
+    font-size: x-large;
+}
+.more2 :hover{
+    color: aqua;
+}
