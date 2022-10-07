@@ -278,7 +278,7 @@ img{
 .sec1{
     width: 260px;
    margin: 0px;
-    background-color: purple;
+    background-color:;
 }
 .em1 :hover{
     color: black;
@@ -370,7 +370,7 @@ img{
 .sec2{
     width: 260px;
     margin: 0px;
-     background-color: purple;
+     background-color: ;
 }
 .all{
     display: flex;
@@ -388,7 +388,7 @@ height: 200px;
 .sec3{
     width: 260px;
     margin: 0px;
-     background-color: purple;
+     background-color: ;
 }
 .l9{
     background-color: black;
@@ -550,7 +550,7 @@ height: 200px;
 .sec4{
     width: 260px;
     margin: 0px;
-     background-color: purple;
+     background-color:;
 }
 
 .lla{
@@ -639,7 +639,7 @@ height: 200px;
 .sec5{
     width: 260px;
     margin: 0px;
-     background-color: purple;
+     background-color: ;
 }
 .trend3{
     
