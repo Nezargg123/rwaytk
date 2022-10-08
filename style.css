@@ -13,7 +13,7 @@ body{
     padding: 0%;
     background-color: ;
     font-family: sans-serif;
-    background-image: url(assests/webback.jpg);
+    background-image: url(assests/webback4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -767,3 +767,7 @@ height: 200px;
 .more2 :hover{
     color: aqua;
 }
+.more1 :hover{
+    color: aqua;
+}
+
