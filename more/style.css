@@ -1,0 +1,200 @@
+.a1{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+
+}
+.l1 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.a2{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+
+}
+.l2 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l1{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+    
+}
+.l2{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+    
+}
+.llk{
+    width: 140px;
+    height:200px ;
+}
+.em1{
+    color: black;
+    width: 140px;
+    height: 30px;
+    text-align: left;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.lls{
+    width: 140px;
+    height:200px ;
+}
+.a3{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a4{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.l3{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l4{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l3 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l4 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.em2{
+    color: black;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sec1{
+    width: 260px;
+   margin: 0px;
+    background-color:;
+}
+.em1 :hover{
+    color: black;
+}
+.em2 :hover{
+    color: black;
+
+}
+.llv{
+    width: 140px;
+    height:200px ;
+}
+.lld{
+    width: 140px;
+    height:200px ;
+}
+.em3{
+    color: black;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.em4{
+    color: black;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.l5{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l6{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l7{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l8{
+    background-color: black;
+    width: 70px;
+    height: 30px;
+}
+.l5 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l6 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l7 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.l8 :hover{
+    color: yellow;
+    font-size: 30px;
+}
+.a5{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a6{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a7{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.a8{
+    text-decoration: none;
+    color: aqua;
+    font-size: 25px;
+}
+.sec2{
+    width: 260px;
+    margin: 0px;
+     background-color: ;
+}
+.all{
+    display: flex;
+}
+.textsec{
+background-color: ;
+height: 200px;
+
+}
+.lg{
+    width: 140px;
+    height:200px ;
+    box-shadow: gold;
+}
+.sec3{
+    width: 260px;
+    margin: 0px;
+     background-color: ;
+}
+.l9{
