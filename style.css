@@ -766,7 +766,7 @@ height: 200px;
 }
 #hp_1{
     background-color: black;
-    padding-top: 40px;
+    padding-top: 33px;
     color: yellow;
     text-align: right;
     
@@ -774,4 +774,10 @@ height: 200px;
 #h-text{
     padding-right: 40px
     ;
+}
+
+div ul {
+    display: inline-flex;
+    list-style: none;
+    
 }
