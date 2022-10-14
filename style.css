@@ -278,7 +278,7 @@ img{
 .sec1{
     width: 260px;
    margin: 0px;
-    background-color:;
+   ;
 }
 .em1 :hover{
     color: black;
@@ -370,15 +370,15 @@ img{
 .sec2{
     width: 260px;
     margin: 0px;
-     background-color: ;
+     ;
 }
 .all{
     display: flex;
 }
 .textsec{
-background-color: ;
-height: 200px;
 
+height: 200px;
+;
 }
 .lg{
     width: 140px;
@@ -388,7 +388,7 @@ height: 200px;
 .sec3{
     width: 260px;
     margin: 0px;
-     background-color: ;
+     ;
 }
 .l9{
     background-color: black;
@@ -550,7 +550,7 @@ height: 200px;
 .sec4{
     width: 260px;
     margin: 0px;
-     background-color:;
+     ;
 }
 
 .lla{
@@ -639,7 +639,7 @@ height: 200px;
 .sec5{
     width: 260px;
     margin: 0px;
-     background-color: ;
+    ;
 }
 .trend3{
     
@@ -707,13 +707,7 @@ height: 40px;
     height: 40px;
     width: 50px;
 }
-.trendlist{
-    
-   
 
-
-
-}
 .trend3 :hover{
     color: cadetblue;
 }
