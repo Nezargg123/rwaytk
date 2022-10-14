@@ -769,4 +769,9 @@ height: 200px;
     padding-top: 40px;
     color: yellow;
     text-align: right;
+    
   }
+#h-text{
+    padding-right: 40px
+    ;
+}
