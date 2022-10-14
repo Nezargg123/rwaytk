@@ -2,7 +2,7 @@
     text-align: center;
     font-size: xx-large;
     color: yellow;
-    background-color: ;
+    ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 height: auto;
 width: auto;
@@ -11,7 +11,7 @@ background-image: url(assests/neon.png);
 body{
     margin: 0%;
     padding: 0%;
-    background-color: ;
+    ;
     font-family: sans-serif;
     background-image: url(assests/webback4.jpg);
     background-repeat: no-repeat;
